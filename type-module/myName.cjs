@@ -1,0 +1,1 @@
+exports.myNameCJS = 'Ykm4';

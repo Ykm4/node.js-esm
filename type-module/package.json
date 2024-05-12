@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-type-module",
+  "version": "1.0.0",
+  "description": "package.jsonに`\"type\": \"module\"`を追加対応",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "exec": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "volta": {
+    "node": "22.1.0"
+  }
+}
