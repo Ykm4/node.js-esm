@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-mjs",
+  "version": "1.0.0",
+  "description": "ファイル拡張子を.mjsにしたESM対応",
+  "main": "index.mjs",
+  "scripts": {
+    "exec": "node --watch index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "volta": {
+    "node": "22.1.0"
+  }
+}
